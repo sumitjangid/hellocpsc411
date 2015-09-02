@@ -10,31 +10,31 @@
 	<string>HelloCS411</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>41A10D109E8129D62EB1978E2E225E8D5DD58C36</key>
-		<string>https://github.com/mshafae/CS411SampleCode.git</string>
+		<key>B67B9352A42AC7B32E8B15C0D67E59C540481B67</key>
+		<string>github.com:sumitjangid/hellocpsc411.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HelloCS411/HelloCS411.xcodeproj</string>
+	<string>HelloCS411.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>41A10D109E8129D62EB1978E2E225E8D5DD58C36</key>
-		<string>../../..</string>
+		<key>B67B9352A42AC7B32E8B15C0D67E59C540481B67</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/mshafae/CS411SampleCode.git</string>
+	<string>github.com:sumitjangid/hellocpsc411.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>41A10D109E8129D62EB1978E2E225E8D5DD58C36</string>
+	<string>B67B9352A42AC7B32E8B15C0D67E59C540481B67</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>41A10D109E8129D62EB1978E2E225E8D5DD58C36</string>
+			<string>B67B9352A42AC7B32E8B15C0D67E59C540481B67</string>
 			<key>IDESourceControlWCCName</key>
-			<string>CS411SampleCode</string>
+			<string>hellocpsc411</string>
 		</dict>
 	</array>
 </dict>
